@@ -28,7 +28,7 @@ def day_1():
         totals.remove(current)
 
     logging.info("top3_total: " + str(top3_total))
-    logging.info("day 2: ended!")
+    logging.info("day 1: ended!")
 
 
 logging.basicConfig(handlers=[logging.StreamHandler()],
