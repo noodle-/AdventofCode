@@ -1,0 +1,5 @@
+"C:\Program Files\Python39\python.exe" "D:\My Documents\GitHub\AdventofCode\2024\01\main.py"
+Total Distance: 1873376
+Similarity Score: 18997088
+
+Process finished with exit code 0

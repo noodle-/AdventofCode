@@ -1,4 +1,0 @@
-"C:\Program Files\Python39\python.exe" "D:\My Documents\GitHub\AdventofCode\2024\main.py"
-Total Distance: 1873376
-
-Process finished with exit code 0
