@@ -1,0 +1,5 @@
+"C:\Program Files\Python39\python.exe" "D:\My Documents\GitHub\AdventofCode\2024\02\main.py"
+Number of Safe Reports (without Dampener): 411
+Number of Safe Reports (with Dampener): 465
+
+Process finished with exit code 0
